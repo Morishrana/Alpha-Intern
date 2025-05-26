@@ -5,11 +5,11 @@
 // }
 // func()//gives output 5  
 
-let a = 100;
+let app = 100;
 function app(){
     console.log("1",a);//100
 }
-let a = 42;
+let app = 42;
 function App(){
 console.log("2",a);//42
 {
